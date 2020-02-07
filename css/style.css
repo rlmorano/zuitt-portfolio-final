@@ -9682,3 +9682,11 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+
+    .stack-setting img {
+      height: 150px;
+      width: 150px;
+    }
+    .padding-animate{
+      padding: 30px 0;
+    }
